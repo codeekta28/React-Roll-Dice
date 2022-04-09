@@ -1,0 +1,19 @@
+.diceRollButton button {
+  width: 15%;
+  margin: 20px;
+  padding: 25px 30px;
+  outline: none;
+  border: none;
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+  transition: all .3s ease-in-out;
+}
+.diceRollButton button:hover{
+    cursor: pointer;
+}
+.diceRollButton .btnStyle{
+color: red;
+background-color: rgb(226, 162, 226);
+}
